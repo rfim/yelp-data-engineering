@@ -24,10 +24,8 @@ A streamlined pipeline for ingesting, modeling, transforming, and analyzing Yelp
 
 ```
 yelp-data-engineering/
-├── notebooks/ (Databricks Notebooks)
-├── src/ (Python Scripts)
+├── src/ (Databricks Notebooks)
 ├── data/ (Raw & Processed Data)
-├── reports/ (Documentation)
 ├── requirements.txt
 └── .gitignore
 ```
