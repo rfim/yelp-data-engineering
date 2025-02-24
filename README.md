@@ -11,16 +11,14 @@ A streamlined pipeline for ingesting, modeling, transforming, and analyzing Yelp
 - **SQL Query**: Identify "rising star" businesses.
 
 ## 📂 Online Notebooks
-
-- 🔹 [Yelp 0 Init](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1525547841766423/33598983870469/latest.html)
+- 🔹 [Yelp 0 Init](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/97386526995991/33598983870469/latest.html)
 - 🔹 [Yelp 1 EDA](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710707/33598983870469/latest.html)
 - 🔹 [Yelp 2a Data Ingestion](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710695/33598983870469/latest.html)
 - 🔹 [Yelp 2b Data Modeling](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710698/33598983870469/latest.html)
 - 🔹 [Yelp 2c Data Transformation](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710701/33598983870469/latest.html)
 - 🔹 [Yelp 2c DQ Benchmark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1525547841766423/33598983870469/latest.html)
 - 🔹 [Yelp 2d Scalability & Performance](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710704/33598983870469/latest.html)
-- 🔹 [Yelp 3 SQL Query & Visualization](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710704/33598983870469/latest.html)
-
+- 🔹 [Yelp 3 SQL Query & Visualization](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1239161224408794/1900759355710710/33598983870469/latest.html)
 
 ## 🏗️ Project Structure
 
